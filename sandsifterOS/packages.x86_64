@@ -1,0 +1,10 @@
+base
+base-devel
+linux
+mkinitcpio
+mkinitcpio-archiso
+openssh
+python3
+python-capstone
+syslinux
+vim
